@@ -4,7 +4,7 @@ UCI Homework 5 Work Day Scheduler
 * ['Work Day Scheduler GitHub'](https://github.com/KevinNg2/Third-Party-API-Work-Day-Scheduler)
 * ['Work Day Scheduler GitHub Live Link'](https://kevinng2.github.io/Third-Party-API-Work-Day-Scheduler/)
 
-![Screenshot 2022-08-07 161831](https://user-images.githubusercontent.com/102876076/183488804-00d55d2d-d645-46c2-9020-a2b4d8ac4c44.png)
+![](Assets/../../Assets/Screenshot%202022-08-07%20161831.png)
 ### User Story
 As an employee with a busy schedule, the user wants to add important events to a daily planner so that they can manage their time effectively
 
